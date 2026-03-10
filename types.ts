@@ -1,5 +1,5 @@
 
-export type ActiveApp = 'hub' | 'json-studio' | 'xml-architect';
+export type ActiveApp = 'hub' | 'json-studio' | 'xml-architect' | 'yaml-editor' | 'jwt-decoder' | 'base64-tool' | 'diff-tool';
 
 export type ViewMode = 'editor' | 'tree' | 'visualizer';
 
